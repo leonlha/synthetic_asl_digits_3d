@@ -1,2 +1,2 @@
-# synthetic_asl_digits_3d
-Updating...
+# Synthetic ASL Digits 3D
+[Link to download on Kaggle](https://www.kaggle.com/datasets/paulnh/3d-synthetic-asl-digits)
