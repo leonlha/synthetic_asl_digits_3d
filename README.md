@@ -3,12 +3,12 @@
 
 ## Citation
 ```BibTeX
-@misc{Nguyen2020,
-  author = {Huu Phong Nguyen},
-  title = {Synthetic ASL Digits 3D},
-  year = {2020},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/leonlha/synthetic_asl_digits_3d}},
+ @misc{huu phong nguyen_2023,
+	title={3D Synthetic ASL Digits},
+	url={https://www.kaggle.com/dsv/5992197},
+	DOI={10.34740/KAGGLE/DSV/5992197},
+	publisher={Kaggle},
+	author={Huu Phong Nguyen},
+	year={2023}
 }
 ````
